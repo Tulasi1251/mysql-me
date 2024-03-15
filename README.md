@@ -1,1 +1,3 @@
 # mysql-me
+
+these are the commands of mysql used for query solving and to create the tables inside the database....
